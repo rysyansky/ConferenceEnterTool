@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oNTFIkZ156A7E4KwRut4fD0B8DUPRPrp5DbIqYPqRX9XrLPwU4arui5/CoMhaBmPHeQuFiPOAKtBlCeyhbOL+A==",
+  "dgSpecHash": "U/2fZ+xD8T2a9D6O14mOQkUyDXmKEbBkuglJZfc5EclrfY6HYpbkKbnnUAsBlQ4t/ZYsvaxZQ/BoyrFwU/p7sg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ConfEntTool\\ConfEntTool\\ConfEntTool.csproj",
+  "projectFilePath": "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\ConfEntTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mecny\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mecny\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

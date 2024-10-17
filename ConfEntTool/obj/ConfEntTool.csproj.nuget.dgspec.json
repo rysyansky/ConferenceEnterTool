@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ConfEntTool\\ConfEntTool\\ConfEntTool.csproj": {}
+    "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\ConfEntTool.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ConfEntTool\\ConfEntTool\\ConfEntTool.csproj": {
+    "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\ConfEntTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ConfEntTool\\ConfEntTool\\ConfEntTool.csproj",
+        "projectUniqueName": "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\ConfEntTool.csproj",
         "projectName": "ConfEntTool",
-        "projectPath": "C:\\Projects\\ConfEntTool\\ConfEntTool\\ConfEntTool.csproj",
+        "projectPath": "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\ConfEntTool.csproj",
         "packagesPath": "C:\\Users\\mecny\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ConfEntTool\\ConfEntTool\\obj\\",
+        "outputPath": "C:\\Projects\\ConferenceEnterTool\\ConfEntTool\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

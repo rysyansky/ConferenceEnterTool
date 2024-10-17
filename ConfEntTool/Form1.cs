@@ -29,13 +29,16 @@ namespace ConfEntTool
             ConfType.Items.Clear();
             var links = db.Links.ToList();
             string[] items = new string[links.Count];
-            for(int i = 0; i < links.Count; i++)
+            for (int i = 0; i < links.Count; i++)
             {
                 items[i] = links[i].LinkName;
             }
             Array.Sort(items);
             ConfType.Items.AddRange(items);
-            ConfType.Text = (string)ConfType.Items[0];
+            if (ConfType.Items.Count > 0)
+            {
+                ConfType.Text = (string)ConfType.Items[0];
+            }
         }
 
         private void OpenBut_Click(object sender, EventArgs e)
